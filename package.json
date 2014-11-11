@@ -1,6 +1,6 @@
 {
   "name": "stream-line",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Read and process streams line-by-line.",
   "main": "index.js",
   "dependencies": {
@@ -14,6 +14,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "James Gill <jgill@expectlabs.com>",
+  "author": {
+    "name": "James A. Gill",
+    "url": "https://github.com/jagill"
+  },
+  "homepage": "https://github.com/jagill/stream-line",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagill/stream-line"
+  },
+  "bugs": {
+    "url": "https://github.com/jagill/stream-line"
+  },
   "license": "MIT"
 }
