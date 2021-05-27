@@ -1,6 +1,6 @@
 {
   "name": "stream-line",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Read and process streams line-by-line.",
   "main": "index.js",
   "dependencies": {
